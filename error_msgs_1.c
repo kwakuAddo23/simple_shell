@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "root.h"
 
 /**
  * error_env - displays error message.
